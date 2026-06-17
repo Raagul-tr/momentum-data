@@ -1,20 +1,152 @@
 {
-  "exportedAt": "2026-06-16T07:20:09.233Z",
-  "date": "2026-06-16",
+  "exportedAt": "2026-06-17T17:01:24.652Z",
+  "date": "2026-06-17",
   "buildHabits": [
     {
-      "name": "Study",
+      "name": "Work",
       "type": "signal",
       "target": null,
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": 0,
+      "weekOverWeekPct": 100,
+      "last7Days": {
+        "2026-06-15": 2,
+        "2026-06-16": 2
+      }
+    },
+    {
+      "name": "Wakeup",
+      "type": "checkbox",
+      "target": null,
+      "value": true,
+      "metToday": true,
+      "streak": 1,
+      "weekOverWeekPct": 100,
+      "last7Days": {
+        "2026-06-17": true
+      }
+    },
+    {
+      "name": "Exercise",
+      "type": "checkbox",
+      "target": null,
+      "value": true,
+      "metToday": true,
+      "streak": 2,
+      "weekOverWeekPct": 100,
+      "last7Days": {
+        "2026-06-16": true,
+        "2026-06-17": true
+      }
+    },
+    {
+      "name": "Healthy eating",
+      "type": "signal",
+      "target": null,
+      "value": 2,
+      "metToday": true,
+      "streak": 2,
+      "weekOverWeekPct": 100,
+      "last7Days": {
+        "2026-06-16": 1,
+        "2026-06-17": 2
+      }
+    }
+  ],
+  "breakHabits": [
+    {
+      "name": "Watching news expect eating",
+      "type": "time",
+      "loggedToday": 10,
+      "slippedToday": true,
+      "daysClean": 0,
+      "longestCleanStreak": 0,
+      "last7Days": {
+        "2026-06-16": 25,
+        "2026-06-17": 10
+      }
+    },
+    {
+      "name": "💀",
+      "type": "count",
+      "loggedToday": 0,
+      "slippedToday": false,
+      "daysClean": 0,
+      "longestCleanStreak": 0,
       "last7Days": {}
     }
   ],
-  "breakHabits": [],
-  "openTasks": [],
+  "openTasks": [
+    {
+      "title": "RP Practical",
+      "category": "Rehab",
+      "priority": "medium",
+      "dated": false,
+      "date": null,
+      "sessions": 3,
+      "startedOn": "2026-06-16",
+      "openSubtasks": [
+        "Understand the practical",
+        "Read the scales",
+        "Visit the center and collect data"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Narrative Review",
+      "category": "Research",
+      "priority": "high",
+      "dated": false,
+      "date": null,
+      "sessions": 0,
+      "startedOn": "2026-06-16",
+      "openSubtasks": [],
+      "notes": null
+    },
+    {
+      "title": "Complete 1 reel",
+      "category": "Content",
+      "priority": "medium",
+      "dated": false,
+      "date": null,
+      "sessions": 0,
+      "startedOn": "2026-06-16",
+      "openSubtasks": [
+        "Choose a good script",
+        "Generate characters",
+        "Finalize what to do for animation"
+      ],
+      "notes": null
+    },
+    {
+      "title": "SaaS",
+      "category": null,
+      "priority": "medium",
+      "dated": false,
+      "date": null,
+      "sessions": 0,
+      "startedOn": "2026-06-16",
+      "openSubtasks": [],
+      "notes": null
+    },
+    {
+      "title": "Chetna's book",
+      "category": "Personal",
+      "priority": "low",
+      "dated": false,
+      "date": null,
+      "sessions": 0,
+      "startedOn": "2026-06-16",
+      "openSubtasks": [],
+      "notes": null
+    }
+  ],
   "overdueTasks": [],
-  "stallingTasks": []
+  "stallingTasks": [
+    {
+      "title": "RP Practical",
+      "sessions": 3
+    }
+  ]
 }
