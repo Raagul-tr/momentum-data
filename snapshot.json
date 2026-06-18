@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-06-17T17:01:24.652Z",
-  "date": "2026-06-17",
+  "exportedAt": "2026-06-18T17:38:17.396Z",
+  "date": "2026-06-18",
   "buildHabits": [
     {
       "name": "Work",
@@ -12,7 +12,8 @@
       "weekOverWeekPct": 100,
       "last7Days": {
         "2026-06-15": 2,
-        "2026-06-16": 2
+        "2026-06-16": 2,
+        "2026-06-17": 2
       }
     },
     {
@@ -21,19 +22,20 @@
       "target": null,
       "value": true,
       "metToday": true,
-      "streak": 1,
+      "streak": 2,
       "weekOverWeekPct": 100,
       "last7Days": {
-        "2026-06-17": true
+        "2026-06-17": true,
+        "2026-06-18": true
       }
     },
     {
       "name": "Exercise",
       "type": "checkbox",
       "target": null,
-      "value": true,
-      "metToday": true,
-      "streak": 2,
+      "value": null,
+      "metToday": false,
+      "streak": 0,
       "weekOverWeekPct": 100,
       "last7Days": {
         "2026-06-16": true,
@@ -44,13 +46,13 @@
       "name": "Healthy eating",
       "type": "signal",
       "target": null,
-      "value": 2,
-      "metToday": true,
-      "streak": 2,
+      "value": null,
+      "metToday": false,
+      "streak": 0,
       "weekOverWeekPct": 100,
       "last7Days": {
         "2026-06-16": 1,
-        "2026-06-17": 2
+        "2026-06-17": 1
       }
     }
   ],
@@ -58,10 +60,10 @@
     {
       "name": "Watching news expect eating",
       "type": "time",
-      "loggedToday": 10,
-      "slippedToday": true,
+      "loggedToday": 0,
+      "slippedToday": false,
       "daysClean": 0,
-      "longestCleanStreak": 0,
+      "longestCleanStreak": 1,
       "last7Days": {
         "2026-06-16": 25,
         "2026-06-17": 10
