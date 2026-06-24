@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-06-18T17:38:17.396Z",
-  "date": "2026-06-18",
+  "exportedAt": "2026-06-24T17:56:33.819Z",
+  "date": "2026-06-24",
   "buildHabits": [
     {
       "name": "Work",
@@ -9,24 +9,22 @@
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": 100,
+      "weekOverWeekPct": -83,
       "last7Days": {
-        "2026-06-15": 2,
-        "2026-06-16": 2,
-        "2026-06-17": 2
+        "2026-06-18": 1
       }
     },
     {
       "name": "Wakeup",
       "type": "checkbox",
       "target": null,
-      "value": true,
-      "metToday": true,
-      "streak": 2,
+      "value": null,
+      "metToday": false,
+      "streak": 0,
       "weekOverWeekPct": 100,
       "last7Days": {
-        "2026-06-17": true,
-        "2026-06-18": true
+        "2026-06-18": true,
+        "2026-06-19": true
       }
     },
     {
@@ -36,10 +34,9 @@
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": 100,
+      "weekOverWeekPct": -50,
       "last7Days": {
-        "2026-06-16": true,
-        "2026-06-17": true
+        "2026-06-18": true
       }
     },
     {
@@ -49,11 +46,8 @@
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": 100,
-      "last7Days": {
-        "2026-06-16": 1,
-        "2026-06-17": 1
-      }
+      "weekOverWeekPct": -100,
+      "last7Days": {}
     }
   ],
   "breakHabits": [
@@ -63,10 +57,9 @@
       "loggedToday": 0,
       "slippedToday": false,
       "daysClean": 0,
-      "longestCleanStreak": 1,
+      "longestCleanStreak": 6,
       "last7Days": {
-        "2026-06-16": 25,
-        "2026-06-17": 10
+        "2026-06-18": 45
       }
     },
     {
@@ -125,17 +118,6 @@
       "title": "SaaS",
       "category": null,
       "priority": "medium",
-      "dated": false,
-      "date": null,
-      "sessions": 0,
-      "startedOn": "2026-06-16",
-      "openSubtasks": [],
-      "notes": null
-    },
-    {
-      "title": "Chetna's book",
-      "category": "Personal",
-      "priority": "low",
       "dated": false,
       "date": null,
       "sessions": 0,
