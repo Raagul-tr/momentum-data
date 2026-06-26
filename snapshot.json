@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-06-24T17:56:33.819Z",
-  "date": "2026-06-24",
+  "exportedAt": "2026-06-26T16:36:36.544Z",
+  "date": "2026-06-26",
   "buildHabits": [
     {
       "name": "Work",
@@ -9,10 +9,8 @@
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": -83,
-      "last7Days": {
-        "2026-06-18": 1
-      }
+      "weekOverWeekPct": -100,
+      "last7Days": {}
     },
     {
       "name": "Wakeup",
@@ -21,11 +19,8 @@
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": 100,
-      "last7Days": {
-        "2026-06-18": true,
-        "2026-06-19": true
-      }
+      "weekOverWeekPct": -100,
+      "last7Days": {}
     },
     {
       "name": "Exercise",
@@ -34,10 +29,8 @@
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": -50,
-      "last7Days": {
-        "2026-06-18": true
-      }
+      "weekOverWeekPct": -100,
+      "last7Days": {}
     },
     {
       "name": "Healthy eating",
@@ -57,10 +50,8 @@
       "loggedToday": 0,
       "slippedToday": false,
       "daysClean": 0,
-      "longestCleanStreak": 6,
-      "last7Days": {
-        "2026-06-18": 45
-      }
+      "longestCleanStreak": 8,
+      "last7Days": {}
     },
     {
       "name": "💀",
