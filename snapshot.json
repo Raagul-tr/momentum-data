@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-06-26T16:36:36.544Z",
-  "date": "2026-06-26",
+  "exportedAt": "2026-07-01T17:52:06.911Z",
+  "date": "2026-07-01",
   "buildHabits": [
     {
       "name": "Work",
@@ -9,8 +9,10 @@
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": -100,
-      "last7Days": {}
+      "weekOverWeekPct": 200,
+      "last7Days": {
+        "2026-06-29": 3
+      }
     },
     {
       "name": "Wakeup",
@@ -19,8 +21,11 @@
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": -100,
-      "last7Days": {}
+      "weekOverWeekPct": 0,
+      "last7Days": {
+        "2026-06-29": true,
+        "2026-06-30": true
+      }
     },
     {
       "name": "Exercise",
@@ -39,7 +44,7 @@
       "value": null,
       "metToday": false,
       "streak": 0,
-      "weekOverWeekPct": -100,
+      "weekOverWeekPct": 0,
       "last7Days": {}
     }
   ],
@@ -50,8 +55,11 @@
       "loggedToday": 0,
       "slippedToday": false,
       "daysClean": 0,
-      "longestCleanStreak": 8,
-      "last7Days": {}
+      "longestCleanStreak": 10,
+      "last7Days": {
+        "2026-06-29": 60,
+        "2026-06-30": 35
+      }
     },
     {
       "name": "💀",
@@ -113,7 +121,9 @@
       "date": null,
       "sessions": 0,
       "startedOn": "2026-06-16",
-      "openSubtasks": [],
+      "openSubtasks": [
+        "Interview therapists"
+      ],
       "notes": null
     }
   ],
